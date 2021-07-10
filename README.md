@@ -1,4 +1,4 @@
-# Chemistry
+# Flutter Chemistry
 
 You should also take a look at the chemistry package.
 
