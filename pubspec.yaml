@@ -1,6 +1,6 @@
 name: flutter_chemistry
 description: Flutter integration for Chemistry. Chemistry is a state manager that separates pure state and derived state.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/simonwahll/flutter_chemistry
 
 environment:

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:chemistry/chemistry.dart';
+import 'package:flutter_chemistry/flutter_chemistry.dart';
 
 void main() {
   runApp(MyApp());
